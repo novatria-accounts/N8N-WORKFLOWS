@@ -1,5 +1,7 @@
 # N8N-WORKFLOWS
 This is the Repository to store the N8N Workflow instructions for connecting AI
+Đây là Repository để lưu trữ các hướng dẫn về Workflow của N8N.
+Mục tiêu: Dùng để kết nối cho AI làm nguồn kiến thức giúp bạn xây dựng Workflow
 
 AI Tuỳ biến (Project in ChatGPT/Claude, Gems in Gemini):
 
